@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\File Transfer\File Transfer Server\obj\Debug\File_Transfer_Server.Form1.resources
+C:\Users\user\source\repos\File Transfer\File Transfer Server\obj\Debug\File_Transfer_Server.Properties.Resources.resources
+C:\Users\user\source\repos\File Transfer\File Transfer Server\obj\Debug\File Transfer Server.csproj.GenerateResource.cache
+C:\Users\user\source\repos\File Transfer\File Transfer Server\obj\Debug\File Transfer Server.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\File Transfer\File Transfer Server\bin\Debug\File Transfer Server.exe.config
+C:\Users\user\source\repos\File Transfer\File Transfer Server\bin\Debug\File Transfer Server.exe
+C:\Users\user\source\repos\File Transfer\File Transfer Server\bin\Debug\File Transfer Server.pdb
+C:\Users\user\source\repos\File Transfer\File Transfer Server\obj\Debug\File Transfer Server.exe
+C:\Users\user\source\repos\File Transfer\File Transfer Server\obj\Debug\File Transfer Server.pdb
+C:\Users\user\source\repos\File Transfer\File Transfer Server\obj\Debug\File Transfer Server.csprojAssemblyReference.cache
